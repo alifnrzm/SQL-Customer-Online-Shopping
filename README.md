@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-Data analysis on Customer Online Shopping behavior in a year. The aim is to create a visualisation that informs about the Revenur, type of products sold, Customer demographics, and losses.
+Data analysis on Customer Online Shopping behavior in a year. The aim is to create a visualisation that informs about the Revenue, type of products sold, Customer demographics, and losses.
 
 ### Data sources
 
