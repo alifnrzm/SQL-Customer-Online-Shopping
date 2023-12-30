@@ -13,7 +13,7 @@ Online Shopping Dataset: from [Kaggle](https://www.kaggle.com/datasets/jacksondi
 - SQLite
 	- Data cleaning, Data Preparation
 - Python
-	- Panadas for importing packages
+	- Pandas for importing packages
 - Jupyter Notebook
 	- Reporting Environment
 - PowerBI
